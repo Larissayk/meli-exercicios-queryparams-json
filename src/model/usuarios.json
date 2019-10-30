@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "bookTitle": "Things Fall Apart",
+      "address": {
+        "country": "Brazil",
+        "state": "São Paulo",
+        "city": "São Paulo"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "bookTitle": "One Thousand and One Nights",
+      "address": {
+        "country": "Brazil",
+        "state": "São Paulo",
+        "city": "Campinas"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "bookTitle": "The Epic Of Gilgamesh",
+      "address": {
+        "country": "Brazil",
+        "state": "Rio de Janeiro",
+        "city": "Parati"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "bookTitle": "The Divine Comedy",
+      "address": {
+        "country": "Brazil",
+        "state": "Paraná",
+        "city": "Londrina"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "bookTitle": "Fairy tales",
+      "address": {
+        "country": "Brazil",
+        "state": "Minas Gerais",
+        "city": "Ouro Preto"
+      }
+
+
+    }
+  ]
