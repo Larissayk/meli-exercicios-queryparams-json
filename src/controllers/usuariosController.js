@@ -27,3 +27,8 @@ exports.getBookByUser = (req, res) => {
     // console.log(usuario)
     res.status(200).send(`Usuário: ${(usuario.name)}, livro: ${usuario.bookTitle}`)
 }
+
+//http://localhost:3000/usuarios/pais?country=Colombia&state=São Paulo
+exports.getCountry = (req, res) => {
+  return res.json(req.query);
+}

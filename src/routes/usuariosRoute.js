@@ -4,7 +4,7 @@ const controller = require("../controllers/usuariosController");
 
 router.get("/", controller.getUsuarios);
 router.get("/livros", controller.getBooks);
-router.get("/buscar/:pais")
+router.get("/pais", controller.getCountry)
 router.get("/:id", controller.getById);
 router.get("/:id/livros", controller.getBookByUser)
 
